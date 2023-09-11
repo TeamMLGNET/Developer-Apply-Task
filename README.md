@@ -12,7 +12,7 @@ You have to do following Tasks with the source-code:
 **MAVEN:**
 
 ```
-  <dependency> 
+<dependency> 
 
          <groupId>net.luckperms</groupId>           <artifactId>api</artifactId>
          <version>5.4</version>
@@ -20,3 +20,13 @@ You have to do following Tasks with the source-code:
 
 </dependency>
 ```
+
+**GRADLE:**
+
+```
+dependencies {
+    compileOnly 'net.luckperms:api:5.4'
+}
+```
+
+**LuckPerms api = LuckPermsProvider.get();**
