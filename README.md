@@ -14,7 +14,7 @@ You have to do following Tasks with the source-code:
 - [ ] Add Rank command with the LuckPerms API
 - /rank set PLAYER RANK
 - /rank reset PLAYER
-- /rank rename ALTERNAME NEUERNAME
+- /rank rename OLD_NAME NEW_NAME
 
 
 **________________________________________**
