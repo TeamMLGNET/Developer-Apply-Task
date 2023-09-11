@@ -10,8 +10,10 @@ You have to do following Tasks with the source-code:
 
 ```
   <dependency> 
-             <groupId>net.luckperms</groupId> 
-             <artifactId>api</artifactId> 
-             <version>5.4</version> 
-             <scope>provided</scope> 
-         </dependency>```
+
+         <groupId>net.luckperms</groupId>           <artifactId>api</artifactId>
+         <version>5.4</version>
+         <scope>provided</scope>
+
+</dependency>
+```
