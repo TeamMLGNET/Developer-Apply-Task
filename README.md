@@ -19,7 +19,7 @@ You have to do following Tasks:
 - [ ] Add a ReportCommand
 - with MySQL
 - /reports: Lists all reports.
-- /report PLAYER <REASON>: Report Command
+- /report PLAYER REASON: Report Command
   REASON: HACKING, TROLLING, INSULT, NAME
 
 **________________________________________**
