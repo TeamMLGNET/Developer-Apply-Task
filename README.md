@@ -29,4 +29,4 @@ dependencies {
 }
 ```
 
-**LuckPerms api = LuckPermsProvider.get();**
+**LuckPerms luckPerms = LuckPermsProvider.get();**
