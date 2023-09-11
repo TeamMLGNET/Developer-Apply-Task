@@ -8,6 +8,9 @@ You have to do following Tasks with the source-code:
 
 - [ ] Add Rank command with the LuckPerms API
 
+
+**MAVEN:**
+
 ```
   <dependency> 
 
