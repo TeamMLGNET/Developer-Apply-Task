@@ -49,4 +49,4 @@ dependencies {
 
 > [!NOTE]
 > Maybe usefull ;)
-```LuckPerms luckPerms = LuckPermsProvider.get();```
+> ```LuckPerms luckPerms = LuckPermsProvider.get();```
