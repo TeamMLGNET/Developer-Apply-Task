@@ -48,4 +48,5 @@ dependencies {
 
 
 > [!NOTE]
+> Maybe usefull ;)
 ```LuckPerms luckPerms = LuckPermsProvider.get();```
