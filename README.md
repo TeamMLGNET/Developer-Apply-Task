@@ -7,3 +7,11 @@ This is the Developer Apply Task for upcomming Developers in Java for TeamMLG. G
 You have to do following Tasks with the source-code:
 
 - [ ] Add Rank command with the LuckPerms API
+
+```
+  <dependency> 
+             <groupId>net.luckperms</groupId> 
+             <artifactId>api</artifactId> 
+             <version>5.4</version> 
+             <scope>provided</scope> 
+         </dependency>```
