@@ -16,11 +16,9 @@ You have to do following Tasks:
 - /rank reset PLAYER
 - /rank rename OLD_NAME NEW_NAME
   
-- [ ] Add a ReportCommand
-- with MySQL
-- /reports: Lists all reports.
-- /report PLAYER REASON: Report Command
-  REASON: HACKING, TROLLING, INSULT, NAME
+- [ ] Add a KickCommanf
+- /kick Player Reason
+- IMPORTANT: A player with permission ```teammlg.kick``` can kick anyone with a LOWER GroupID than himself. Do this with help of the LuckPermsAPI.
 
 **________________________________________**
 
