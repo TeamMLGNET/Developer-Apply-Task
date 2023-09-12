@@ -18,7 +18,7 @@ You have to do following Tasks:
   
 - [ ] Add a KickCommanf
 - /kick Player Reason
-- IMPORTANT: A player with permission ```teammlg.kick``` can kick anyone with a LOWER GroupID than himself. Do this with help of the LuckPermsAPI.
+- **IMPORTANT:** A player with permission ```teammlg.kick``` can kick anyone with a LOWER GroupID than himself. Do this with help of the LuckPermsAPI.
 
 **________________________________________**
 
