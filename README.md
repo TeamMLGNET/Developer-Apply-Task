@@ -48,3 +48,11 @@ dependencies {
 > [!NOTE]
 > Maybe usefull ;)
 > ```LuckPerms luckPerms = LuckPermsProvider.get();```
+
+**________________________________________**
+
+**IF YOU DID THIS ALL CORRECTLY YOU CAN OPEN UP A TICKET(https://dc.teammlg.net/) OR WRITE TO leadingnoob ON DISCORD.**
+
+**________________________________________**
+
+With happy regards TeamMLG.NET Developement!
