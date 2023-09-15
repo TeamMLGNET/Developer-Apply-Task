@@ -51,7 +51,7 @@ dependencies {
 
 **________________________________________**
 
-**IF YOU DID THIS ALL CORRECTLY YOU CAN OPEN UP A TICKET (https://dc.teammlg.net/) OR WRITE TO leadingnoob ON DISCORD.**
+**IF YOU DID THIS ALL CORRECTLY YOU CAN OPEN UP A TICKET (https://dc.teammlg.net/) OR WRITE TO ``leadingnoob`` ON DISCORD.**
 
 **________________________________________**
 
