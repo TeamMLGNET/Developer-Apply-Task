@@ -27,12 +27,10 @@ You have to do following Tasks:
 
 ```
 <dependency> 
-
          <groupId>net.luckperms</groupId>
          <artifactId>api</artifactId>
          <version>5.4</version>
          <scope>provided</scope>
-
 </dependency>
 ```
 
